@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dialogs</string>
+    <string name="positivo">Positivo</string>
+    <string name="negativo">Negativo</string>
+    <string name="neutral">Neutral</string>
+    <string name="pick_single">Elige un color</string>
+    <string name="pick_multi">Elige varios colores</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+	<string-array name="colors_array">
+	    <item >Rojo</item>
+	    <item >Amarillo</item>
+	    <item >Azul</item>
+	    <item >Verde</item>
+	</string-array>
+	
+	<string name="signin">Sign In</string>
+	<string name="username">Usuario</string>
+    <string name="password">Clave</string>
+    
+
+</resources>
